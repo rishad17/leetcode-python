@@ -1,6 +1,6 @@
 # LeetCode Array
 
-🚀 **My solutions to easy array problems on LeetCode**
+🚀 **My solutions to array problems on LeetCode**
 
 This repository contains my personal solutions to array problems from [LeetCode](https://leetcode.com/).  
 I’m using this as a way to practice problem-solving, improve coding skills, and document patterns I learn.
